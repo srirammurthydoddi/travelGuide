@@ -1,0 +1,25 @@
+.package-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #ffffff;
+  width: 45%;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+.info-container {
+  padding: 15px;
+}
+.name {
+  font-size: 25px;
+  color: #475569;
+  font-weight: bold;
+  font-family: roboto;
+}
+.description {
+  font-size: 15px;
+  color: #64748b;
+  font-weight: 700;
+  font-family: roboto;
+}
